@@ -1,0 +1,3 @@
+[submodule "docker-liferay-portal-ce"]
+	path = docker-liferay-portal-ce
+	url = https://github.com/igor-baiborodine/docker-liferay-portal-ce.git
